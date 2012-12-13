@@ -1,3 +1,3 @@
-import server.class1;
+import server.class1a;
 
 // class2
